@@ -1,6 +1,8 @@
 # Generative Deep Learning
 Platform: JAKARTA EE 10, jdk17, microprofile
+
 Intelligence APIs: Tensorflow
+
 Server: Payara 6
 
 ## What is Generative Modeling
