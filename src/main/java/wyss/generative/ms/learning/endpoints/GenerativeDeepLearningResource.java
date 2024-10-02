@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package wyss.generative.ms.learning;
+package wyss.generative.ms.learning.endpoints;
 
 import jakarta.enterprise.context.RequestScoped;
 import jakarta.ws.rs.Consumes;
